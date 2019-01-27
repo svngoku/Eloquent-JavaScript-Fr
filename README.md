@@ -1,2 +1,4 @@
-# Eloquent-JavaScript-Fr
-Version française du livre EloquentJavaScript de Marjin Haverbeke
+# Eloquent JavaScript
+Une introduction moderne à la programmation
+
+![alt text](http://eloquentjavascript.net/img/cover.jpg)  
